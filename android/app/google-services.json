@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669983599993",
+    "project_id": "piggyplanner-mobile",
+    "storage_bucket": "piggyplanner-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669983599993:android:af17dfc575e0da3f2ad3a8",
+        "android_client_info": {
+          "package_name": "com.example.piggy_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669983599993-qigb3mdjf89i316an4jm9o134m7ekg6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7UyKQEVf9JF35lcckS0IA5IlVZ6fVAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669983599993-qigb3mdjf89i316an4jm9o134m7ekg6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
